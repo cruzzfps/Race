@@ -78,15 +78,15 @@ cfg.groups = {
     
     ["Ouro"] = {
         _config = {
-            title = "Ouro"
+            title = "Ouro",
         },
-        "ouro.permissao",
+        "ouro.permissao"
     },
     ["Diamante"] = {
         _config = {
-            title = "Diamante"
+            title = "Diamante",
         },
-        "diamante.permissao",
+        "diamante.permissao"
     },
     ["Motoclub"] = {
         _config = {
